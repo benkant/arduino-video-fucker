@@ -1,0 +1,4 @@
+There's an Arduino sketch called EffectButtons.pde. It basically just reads from two pins and prints the result.
+On the Processing side it'll read those values and blur/convolute your webcam output based on the pin high/low.
+
+Partial assembly required.
